@@ -1,2 +1,2 @@
 # ransomware1
-Encrypt_All_Files
+Hashing_All_Files
